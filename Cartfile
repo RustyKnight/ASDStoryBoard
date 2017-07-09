@@ -1,0 +1,6 @@
+github "RustyKnight/MBProgressHUD" == 2.5.0
+github "RustyKnight/CBZSplashViewLib" == 2.5.0
+
+github "RustyKnight/realm-cocoa" == 3.0.1
+github "RustyKnight/Hydra"
+github "RustyKnight/KZiOSCoreKit" "master"
